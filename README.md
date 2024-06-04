@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: danielgrohmann21@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I also like to tingle with electronics and arduino 
+- ⚡ Fun fact: I'm also a professional CNC programmer, but that's a whole different story
 
 <!---
 MadWolf97/MadWolf97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
